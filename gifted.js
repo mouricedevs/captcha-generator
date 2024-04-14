@@ -1,4 +1,4 @@
-// this code is provided by helpme_coder
+// this code is provided by giftedtech
 // Selecting necessary DOM elements
 const captchaTextBox = document.querySelector(".captch_box input");
 const refreshButton = document.querySelector(".refresh_button");
@@ -57,4 +57,4 @@ submitButton.addEventListener("click", submitBtnClick);
 // Generate a captcha when the page loads
 generateCaptcha();
 
-// this code is provided by helpme_coder
+// this code is provided by giftedtech
